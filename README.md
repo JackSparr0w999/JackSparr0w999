@@ -1,4 +1,17 @@
 ## Hi there 👋
+### Who am I...
+I’m a computer science student who loves learning beyond the classroom. I will upload in my github projects, web apps, personal sites and interesting repos that I build or find while digging outside my university comfort zone.
+
+### My main interest...
+In general I'm very interested in Gray Hat Hacking and Information Gathering, with the goal of creating powerful systems to create a complete identikit/blueprint of individuals/criminals. For now this is just a very complex idea that I will realize and for know it has just been prototyped in Figma (just because I love UI Design), but the concept aims to became a KALI Linux utility. It also has a name: "The Eye of God".
+
+### Why is there a jellyfish in my profile photo? 
+Well, is not just a jellyfish, it is a Turritopsis Nutricula:
+"Turritopsis nutricula, known as the immortal jellyfish, is a hydrozoan in the Oceaniidae family. Its unique characteristic is its ability to reverse its life cycle, reverting to the polyp state after reaching the adult medusa stage."
+
+> "Quiet people have the loudest mind" - Stephen Hawking
+
+
 
 <!--
 **JackSparr0w999/JackSparr0w999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
