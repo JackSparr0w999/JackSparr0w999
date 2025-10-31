@@ -9,6 +9,8 @@ In general I'm very interested in Gray Hat Hacking and Information Gathering, wi
 Well, is not just a jellyfish, it is a Turritopsis Nutricula:
 "Turritopsis nutricula, known as the immortal jellyfish, is a hydrozoan in the Oceaniidae family. Its unique characteristic is its ability to reverse its life cycle, reverting to the polyp state after reaching the adult medusa stage."
 
+
+
 > "Quiet people have the loudest mind" - Stephen Hawking
 
 
