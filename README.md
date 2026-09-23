@@ -3,7 +3,7 @@
 I’m a computer science student who loves learning beyond the classroom. I will upload in my github projects, web apps, personal sites and interesting repos that I build or find while digging outside my university comfort zone.
 
 ### My main interest...
-In general I'm very interested in Gray Hat Hacking and Information Gathering, with the goal of creating powerful systems to create a complete identikit/blueprint of individuals/criminals. For now this is just a very complex idea that I will realize and for know it has just been prototyped in Figma (just because I love UI Design), but the concept aims to became a KALI Linux utility. It also has a name: "The Eye of God".
+In general I'm very interested in Gray Hat Hacking and Information Gathering, with the goal of creating powerful systems to create a complete identikit/blueprint of individuals/criminals. I also really like transforming highly complex systems and software into intuitive, accessible, and easy-to-use experiences, driven by my passion for UX design and human-computer interaction.
 
 ### Why is there a jellyfish in my profile photo? 
 Well, is not just a jellyfish, it is a Turritopsis Nutricula:
